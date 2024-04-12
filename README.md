@@ -24,6 +24,13 @@ The Cricket Calculator is a website.
 2. Input the required values in the respective field.
 3. Click the "Calculate" button to get the result.
 
+🖥️ Demo
+
+You can check out a live demo here.
+
+https://calcdiverse.netlify.app/calculators/cricket-calculator/
+
+
 ## Screenshots:-
 
 ![image](https://github.com/Rakesh9100/CalcDiverse/assets/73993775/453a8094-db0d-4988-99b0-c291674a483b)
